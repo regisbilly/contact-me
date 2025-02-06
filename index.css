@@ -1,13 +1,10 @@
 
-.container {
-  width: 300px;
-  height: 200px;
-  border: 2px solid black;
-  overflow-x: scroll;
-  overflow-y: hidden;
-  white-space: nowrap;
-}
-.content {
-  width: 600px;
-  background: lightblue;
-}
+        div {
+            background-color: coral;
+            width: 300px;
+            height: 200px;
+            border: 1px solid black;
+            overflow: scroll;
+            padding: 10px;
+        }
+  
